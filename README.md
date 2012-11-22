@@ -1,4 +1,7 @@
-# Mathias’s dotfiles
+# Buri’s dotfiles
+
+Thanks to Mathias's- dotfiles
+
 
 ## Installation
 
